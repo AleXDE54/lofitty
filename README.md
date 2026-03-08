@@ -41,13 +41,23 @@ Run the player:
 python lofitty.py
 ```
 
+OR build it)
+
+```bash
+pyinstaller --onefile lofitty --name lofitty
+```
+
+aand clone it to path
+
+```
+cp lofitty /usr/local/bin/lofitty
+```
+
 # Usage
 
-- The track name updates live with a glitchy effect
-- Press Enter → copies the current track name to clipboard
-- Press Ctrl+C → exit and print all played tracks
+```
+lofitty
+```
 
 # Notes
-
-If your terminal is smaller than ~30 columns, Lofitty shows a warning message instead of crashing.
 Works best on terminals that support colors and transparency (like Foot, Alacritty, Kitty, etc.)
