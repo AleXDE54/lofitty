@@ -23,6 +23,14 @@ pip install python-mpv pyperclip
 
 # Installation
 
+## Simple install:
+
+Download my package manager from this [github](https://github.com/AleXDE54/realtools/tree/main)
+
+```bash
+rtls install AleXDE54/lofitty
+```
+
 Clone the repository:
 ```bash
 git clone https://github.com/AleXDE54/lofitty
