@@ -1,4 +1,4 @@
-entry = lofitty.py
+entry = lofitty
 requirements = python-mpv, pyperclip
 post_install =
     echo "lofitty installed"
