@@ -31,6 +31,8 @@ Download my package manager from this [github](https://github.com/AleXDE54/realt
 rtls install AleXDE54/lofitty
 ```
 
+## Manual install:
+
 Clone the repository:
 ```bash
 git clone https://github.com/AleXDE54/lofitty
