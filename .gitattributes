@@ -1,2 +1,5 @@
 # .gitattributes
-*.py export-ignore
+*.md export-ignore
+lofitty export-ignore
+*.txt export-ignore
+LICENCE export-ignore
